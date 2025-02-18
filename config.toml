@@ -1,0 +1,35 @@
+# ~/.config/mafi/config.toml
+
+[light_theme]
+bg = "#eff1f5"             # Light background
+text = "#4c4f69"           # Main text color
+highlight_bg = "#ccd0da"   # Highlighted background
+highlight_text = "#dc8a78" # Highlighted text color
+alt_row = "#e6e9ef"        # Alternating row background
+border = "#bcc0cc"
+border_size = 1.0
+dash = "#dc8a78"
+dash_type = "line"
+opacity = 1.0
+
+[dark_theme]
+bg = "#1e1e2e"             # Deep background
+text = "#cdd6f4"           # Main text color
+highlight_bg = "#313244"   # Highlighted background
+highlight_text = "#f5e0dc" # Highlighted text color
+alt_row = "#292a3a"        # Alternating row background
+border = "#45475a"
+border_size = 1.0
+dash = "#f5e0dc"
+dash_type = "dots"
+opacity = 0.9
+
+[font]
+font_name = "Menlo"  # Font name
+font_size = 17.0     # Font size
+
+[window]
+rounded = true
+help_panel = true
+width = 550.0
+height = 340.0
