@@ -1,6 +1,6 @@
 # Installation
 
-Mafia can be installed via Homebrew using one of the following methods:
+Mafi can be installed via Homebrew using one of the following methods:
 
 ### Via tap
 
