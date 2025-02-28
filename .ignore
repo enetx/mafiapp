@@ -1,0 +1,23 @@
+# ~/.ignore
+
+# Ignore hidden files and directories
+.*
+
+# Allow ~/.config/
+!/.config/
+
+# Ignore system directories
+node_modules/
+target/
+build/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.lock
+*.pyc
+
+# Ignore sensitive files
+config.json
+secrets.env
+db.sqlite
