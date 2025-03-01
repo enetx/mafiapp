@@ -25,11 +25,14 @@ dash_type = "dots"
 opacity = 0.9
 
 [font]
-font_name = "Menlo"  # Font name
-font_size = 17.0     # Font size
+font_name = "Menlo" # Font name
+font_size = 17.0    # Font size
 
 [window]
 rounded = true
 help_panel = true
 width = 550.0
 height = 340.0
+
+[keyboard]
+mod_key = "ctrl"    # ctrl, alt, shift
