@@ -30,6 +30,7 @@ font_size = 17.0    # Font size
 
 [window]
 rounded = true
+small = true
 help_panel = true
 width = 550.0
 height = 340.0
